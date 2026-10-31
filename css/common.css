@@ -1,4 +1,5 @@
 body {
+  background-color: #ffffff;
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
 }
@@ -13,9 +14,19 @@ address {
   font-style: normal;
 }
 .logo {
+  font-size: 18px;
+  line-height: 1.33;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: normal;
+}
+.logo:hover,
+.logo:focus {
+  color: #404bbf;
+}
+.logo:active {
+  color: #404bbf;
 }
 .logo-first {
   color: #4d5ae5;

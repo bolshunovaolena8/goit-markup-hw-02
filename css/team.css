@@ -7,4 +7,21 @@
 }
 .team-title {
   text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  font-weight: 700;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+.team-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+.team-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
 }
